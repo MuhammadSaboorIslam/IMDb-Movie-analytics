@@ -13,7 +13,7 @@ def search(query):
     options.add_argument("--blink-settings=imagesEnabled=false'")  # Disable image loading
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--no-sandbox")
-    options.add_argument("--headless")
+    #options.add_argument("--headless")
     driver = webdriver.Chrome(options=options)
     driver.get(f"https://www.imdb.com/find/?q={query}&s=tt&exact=true&ref_=fn_tt_ex")
     movies_list = driver.find_elements(By.XPATH , "//a[@class='ipc-metadata-list-summary-item__t']")
@@ -50,4 +50,3 @@ def search(query):
     else:
         driver.quit()
         return f"No movies found with name '{query}'"
-
