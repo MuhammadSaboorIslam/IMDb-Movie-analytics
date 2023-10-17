@@ -4,20 +4,20 @@
   
   You just pass a name of movie or TV series to the function and voila you get a list containing :
   
-  ◉ Name
-  ◉ Genre  
-  ◉ Release year
-  ◉ Motion Picture Rating (MPAA) / Rating
-  ◉ Length 
-  ◉ Number of Seasons (None incase of movies)
-  ◉ Story Line in 1-2 sentences
-  ◉ IMDb rating
-  ◉ Number of people who rated
-  ◉ User & critic reviews
-  ◉ Meta Score (None in case of TV series)
-  ◉ Awards (None in case of TV Series)
-  ◉ IMDb page link to movie
-  ◉ Movie/series Trailer link
+  ◉ Name </br>
+  ◉ Genre  </br>
+  ◉ Release year </br>
+  ◉ Motion Picture Rating (MPAA) / Rating </br>
+  ◉ Length  </br>
+  ◉ Number of Seasons (None incase of movies) </br>
+  ◉ Story Line in 1-2 sentences </br>
+  ◉ IMDb rating </br>
+  ◉ Number of people who rated </br>
+  ◉ User & critic reviews </br>
+  ◉ Meta Score (None in case of TV series) </br>
+  ◉ Awards (None in case of TV Series) </br>
+  ◉ IMDb page link to movie </br>
+  ◉ Movie/series Trailer link </br>
 
 # Example
 
